@@ -1,6 +1,9 @@
 <h1 align="center" style="background-color:#4169E1; color:white; padding:15px; border-radius:10px;">
   🚀 ¡Hola! Estoy aprendiendo python, django, go, 
 </h1>
+<p align="center">
+  <img src="https://via.placeholder.com/1000x250/4169E1/FFFFFF?text=Estoy+Aprendiendo+Python,+Go,+CSS,+Django+y+JavaScript" alt="Banner de Aprendizaje">
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
