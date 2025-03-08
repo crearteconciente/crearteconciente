@@ -1,7 +1,6 @@
-<!-- Banner superior -->
-<p align="center">
-  <img src="https://via.placeholder.com/1000x250/4169E1/FFFFFF?text=Estoy+Aprendiendo+Python,+Go,+CSS,+Django+y+JavaScript" alt="Banner Azul Rey">
-</p>
+<div style="background-color:#4169E1; color:white; padding:20px; border-radius:10px; text-align:center;">
+  <h1>🚀 ¡Hola! Estoy aprendiendo Python, Go, CSS, Django y JavaScript</h1>
+</div>
 
 <!-- Título Central -->
 <h1 align="center"> 👋 ¡Hola, Bienvenido a mi GitHub! 🚀</h1>
