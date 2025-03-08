@@ -1,16 +1,17 @@
-## Hi there 👋
+<h1 align="center" style="background-color:#4169E1; color:white; padding:15px; border-radius:10px;">
+  🚀 ¡Hola! Estoy aprendiendo python, django, go, 
+</h1>
 
-<!--
-**crearteconciente/crearteconciente** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  🌱 Me encuentro aprendiendo estas tecnologías y trabajando en proyectos interesantes.  
+  <br>🚀 Siempre abierto a nuevos desafíos.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
